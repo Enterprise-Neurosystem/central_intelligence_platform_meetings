@@ -1,0 +1,9 @@
+Discussions Agreed Upon today
+ - Create minutes on the item in this wiki page 
+ - We would record meetings on an ad-hoc basis -- e.g. when presentations are done, or use-case brainstorming for future refer back. 
+ - Monday meeting will be changed to once every 2 weeks (Josh's development meeting once every week for development tracking) 
+ 
+Initiate a discussion group on the cross-correlation of outputs from many different digital assets (data, AI models) in a large company/national level model
+Bill Wright to reach out to "Data Mesh" folks to give an overview of the effort in Data Mesh.
+Dinesh to reach out to Michael Factor to provide an overview of Data Fabric. 
+Josh will probe vaious communication groups for data mesh and other activities. 
