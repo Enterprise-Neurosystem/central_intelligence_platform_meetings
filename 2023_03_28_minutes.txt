@@ -1,0 +1,21 @@
+Status Update on First Utility:
+   Group 1 on Use Cases: Discussions underway via email 
+   Group 2 on Other Comprabales: Work underway no updates beyond previous ones
+   Group 3 on Code: Initial versions in github repo 
+   Group 4 on Governance: initial documentation put in github
+   
+Other Updates:
+   Syncup with Fybric Team 
+   Several open source initiatives by Red Hat, with end goal of commercialization by a company 
+   
+Brainstorming about second utility 
+  Janki: Best practices about security to be used for enterprise AI, including trust in shared data 
+  John: Skupper -- open source for application level network connectivity, find synergies with Sanjay's track -- (ask Sanjay to discuss) 
+  Matthews: Data utilities for AI such as Data Core Set Selection for AI training, Model Applicability to different scenarios,  
+        focus on utilities that can augment the first utility for catalog of self-describing assets
+  David: Utilities like logging, auditing, reportability, role management  which are enterprise-specific functions for AI model/data tracing and maintenance
+  Sharath: managing bias in distributed AI models, and looking at their trust worthiness 
+  Austin: Understanding where the systems can be used and where they can not be used, robustiness/fault-tolerance of AI models 
+  William Caban: Understand the operations of cluster components, and re-optimize different components to reduce power/improve scalability etc. 
+   
+    
