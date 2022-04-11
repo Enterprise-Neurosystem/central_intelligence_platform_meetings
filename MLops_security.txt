@@ -1,0 +1,9 @@
+https://docs.aws.amazon.com/machine-learning/latest/dg/controlling-access-to-amazon-ml-resources-by-using-iam.html
+
+https://cloud.google.com/ai-platform/training/docs/access-control
+
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-assign-roles
+
+https://denyslinkov.medium.com/7-layers-of-mlops-security-5bfd87eea928
+
+https://github.com/aws-samples/amazon-sagemaker-secure-mlops
