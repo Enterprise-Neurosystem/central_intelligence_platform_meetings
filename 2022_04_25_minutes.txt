@@ -12,7 +12,7 @@ Agenda:
       pdf to be uploaded in the minutes 
    3. SMC Conferencce Paper
        - Use overleaf to collaboratively write the paper. 
-       - Add Mathews Thomas and Sharat Prasad as co-authors
+       - Add Mathews Thomas and Sharath Prasad as co-authors
        - Dinesh to create the overleaf template/docs 
        - Table of Contents: 
           - 1. Introduction (Dinesh) {1 page} 
