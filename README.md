@@ -9,6 +9,7 @@ The content deck would typically be the version refelcting all changes and modif
 The specific service will be discussed and decided upon by members of the working group. 
 
 **Details about this Group:**
+
 Main Contact Name: Dinesh Verma, IBM (electronic contact at : dverma AT us DOT ibm dot COM ) 
 
 List of team members : centraliq@lists.enterpriseneurosystem.org
