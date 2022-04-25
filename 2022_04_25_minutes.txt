@@ -1,0 +1,36 @@
+Agenda:
+   1. Recap on the current status of efforts 
+      - Development of SDA catalog being continued as open-source effort as Josh moves to Red Panda 
+      - Audrey - will do house-keeping checks on git repositories: 
+         Please include on all git README: 
+         - a main contact name for any questions 
+         - list of team members 
+         - description of their project
+         - list of date/time they have meetings to discuss their work.
+   2. Empowering Smart Future through Scientific Development and Technology Cconference Paper 
+      Paper acccessible at: https://www.overleaf.com/read/dstftnfqpnjm
+      pdf to be uploaded in the minutes 
+   3. SMC Conferencce Paper
+       - Use overleaf to collaboratively write the paper. 
+       - Add Mathews Thomas and Sharat Prasad as co-authors
+       - Dinesh to create the overleaf template/docs 
+       - Table of Contents: 
+          - 1. Introduction (Dinesh) {1 page} 
+          - 2. Motivation for Self-Description of Digital Assets ( Dinesh, John, Bill Wright) {1 page} 
+          - 3. Use-cases of Self-Describing Digital Assets (Sharat + Mathews) {4-5 pages} 
+                - SLAC - Argonne sharing of assets; 5G MEC AI models 
+          - 4. Utilities needed for Self-Descibing Assets (motivate the catalog) [Austin] { 1-2 pages} 
+          - 5. Architecture of the Catalog (Anindita, Dinesh) {1-2 pages} 
+          - 6. Status of current implementation (Josh) {2-3 pages} 
+          - 7. Conclusions & Future Work (Dinesh) {1-2 pages} 
+          
+      Timeline leading to submission date of 06/17th: 
+          04/26 -- Template in overleaf (Dinesh) 
+          05/22 -- Initial draft of each section 
+          06/06 -- Revised sections  
+          06/15 - Finish Individual pass throghs
+          06/17 -- Submission 
+          
+   4. Discussions on FAIR Principles as possible second utility 
+      - accepted as a useful activity to pursue 
+      - Interested participants include Janki, Dinesh, 
