@@ -1,0 +1,23 @@
+Minutes of Meeting on August 1, 2022
+
+Attendees:  Dinesh Verma, Josh Purcell, Andy Poling, John Overton, Ravi Sinha, David Edelsohn, Bill Wright, 
+
+Items to Discuss: 
+1. Speaker for SMC 2022 Paper [Option 1: Sharath, Option 2: Dinesh, Option 3: Bill ] 
+2. Update on development 
+    Focus areas: (a) connetion of the CLI to the backend (2 CLIs option exists -- Java CLI and Go CLI) 
+                 Surajit working on Go CLI and adding features to that CLI 
+                 API between backend and front-end next item to standardize. 
+                 (b)Python backend has the capability to connect to the Go CLI 
+    Action Item: Anindita to set up a meeting with Dinesh to go over the Python backend 
+    
+3. Update on volunteers - One more volunteer from Academy to participate 
+4. Huggingface Partnership Discussion
+         Need to determine the overlaps and synergies. 
+         Action Item: David to arrange/provide for an overview of Huggingface on Monday, Aug 15th  
+         Josh has posted links about some of the links in ENG slack communications channel        
+5. Satellite WG Discussion Update:
+         Need to bring satellite wg leaders on a discussion
+         Need to identify users of the catalog -- so we can get focus on requiements of the catalog 
+         Action Item: Bill to set up a call among leaders of satellite wg and leaders of catalog development. 
+
