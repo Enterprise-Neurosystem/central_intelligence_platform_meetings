@@ -1,0 +1,23 @@
+1. Discussions with Hugging Face
+
+Synopsis: Hugging Face offers a free public facing service which allows anyone to publish AI models. 
+They also provide a paid public service which allow any published model to be run. 
+The free service runs off a Hub software which is proprietary software. 
+
+The Hub software has similarities with the open source catalog that ENG is building. 
+
+
+Options for Collaboration: 
+  - Open Source Plug-Ins for Hugging Face model 
+  - Configure ENG core work to be compatible with Hugging Face services, i.e. support their APIs (will require their consent)
+      - Define meaning of openness and how the interfaces will work to keep the open option.
+
+Second option voted upon and agreed by the attendees. 
+
+Next Steps: David Edelsohn to check with Hugging Face, and subsequent follow up with ENG Board and Hugging Face.
+
+
+2. Data preprocessing function from Satellite Working Group 
+   Proposal is to have a data reduction facility which is provided to minimize how much data is drawn from the Internet. 
+   Run the suggestion by Ryan Coffee to check applicability to his use-case scenarios 
+   
