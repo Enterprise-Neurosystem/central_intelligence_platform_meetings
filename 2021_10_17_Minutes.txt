@@ -1,0 +1,13 @@
+Minutes of Discussions
+
+1. Hugging Face Discussions 
+    - Hugging Face expecting a casual conversation with 1 or 2 people, not a broad conversation 
+    - What ENG can offer to Hugging Face is not very clear 
+    - Proposal: Request Hugging Face to use Hugging Face APIs for the catalog 
+    - Hugging Face may or may not accept it -- depends on how critical keeping ownership of the APIs to them. 
+    - 
+    
+Next Steps: David will go back to Hugging Face for feedback. 
+
+2. SMC 2022 demo to be repeated in collaboration with Secure AI Connectivity Working Group. 
+Anindita working with Sanjay for the same. 
