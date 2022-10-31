@@ -1,0 +1,14 @@
+Minutes of meeting
+
+1. Discuss videos for Sandro's Working Group 
+   - Sandro provided an overivew of the new working group. 
+   - Will record videos about the activities of ENG 
+   - A Readme file with listing of working groups, vision, links to videos etc. for community 
+   - Enable the wiki section with information and documents about ENG. 
+   - Anindita to share SMC 2020 video to Sandro 
+2. Discuss and Finalize List of Group Members for ENG Elections 
+     List reviewed and approved with all attending folks 
+     List to be shared on community mailing list with deadline for revision by Thursday EoD for any corrections 
+3. Discusss Text Classifier Activity 
+     We will go with an implementation which will use the catalog as an intermediary 
+     
