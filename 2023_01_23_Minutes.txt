@@ -2,12 +2,40 @@ Meeting for 2023
 
 Attendees: 
 
+Joe Noonan, IBM
+Shekeva Green, IBM
+Bill Wright, Red Hat
+Andy Poling, Kove
+John Overton, Kove
+Abhay Ratnaparkhi, IBM 
+Sandro Mazziotti, Red Hat
+Sheeba Prakash, IBM
+Josh Purcell, Red Panda
+Sanjay Aiyagri, Red Hat
+Sharath Prasad, IBM 
+Anindita Das, IBM 
+Tong Zhang, Intel 
+
+
+Tentative Schedule: 
+Feb 6, 2023: Overview for the Self-Describing Asset Catalog, Anindita Das, Sharath Prasad, IBM et. al., Josh Purcell, Red Panda
+Feb 20, 2023: Overview of the Enterprise NeuroSystems Group, Bill Wright, Red Hat 
+March 6, 2023: Data Curation for AI, Sheeba Prakash, IBM 
+March 20, 2023: Linux One Inference Engine, (to be arranged by Joe Noonan) 
 
 
 List of Possible Webinar Topics: 
+Topic, Speaker, Company, Comments 
 
-Topic, Speaker
 IBM Sustainablity PoV, Scott Campbell and Michael Desabris, IBM
 AI 4 Education, Jinjun Xiong, U. Buffalo 
 Panitek- Clean Water Solutions for India, Pankaj Agarwal, Panitek 
-AI based IoT Solutions Overview, Dinesh Verma, IBM 
+AI based IoT Solutions Overview, Dinesh Verma, IBM
+AI in HealthCare related to Neuro-Degenerative Diseases, TBD, TBD, (to be arranged by Abhay Ratnaparkhi)
+Federated Learning, Intel Labs, (to be arranged by Tong Zhang) 
+AI Applications for Network Domain, (to be arranged by Tong Zhang)
+Trustworthy AI, Sharath Prasad, IBM 
+OS Climate Overview, Vincent Caldeira, Red Hat
+Federated Learning Overview, Heiko Ludwig, (to be confirmed by Bill Wright) 
+AI Signaling Processing Technologies, David Wood, IBM (to be arranged by Dinesh Verma) 
+Bee Hive Analysis, Ryan Coffee, Noa, Leo, (to be confimed by Bill Wright) 
